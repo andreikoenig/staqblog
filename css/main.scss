@@ -69,11 +69,8 @@ nav {
 
 .archives ul{
  margin: 0 0 0 -20px;
-<<<<<<< HEAD
  list-style: none;
-=======
  list-style:none;
->>>>>>> alibaba16/gh-pages
  text-align: center;
 
 }
@@ -100,18 +97,17 @@ div.content {
  font-size: 1.2em;
  max-width: 550px;
 }
-<<<<<<< HEAD
+
 // Jekyll broke when I tried to remove the border-radius and box-shadow on March 7, 2016
 .side-bar { 
  width: 20%;
  float: right;
  margin: 184px 0 0 0px;
-=======
+
 
 .side-bar{ width:20%;
  float:right;
  margin: 100px 0 0 20px;
->>>>>>> alibaba16/gh-pages
  display: inline-block;
  padding-left: 30px;
  padding-right: 10px;
@@ -125,14 +121,12 @@ div.content {
  text-align: center;
  margin: 0;
  padding-bottom: 5px;
-<<<<<<< HEAD
  line-height: 1.75em;
-=======
  line-height: 1.75;
 }
 .archives h2{
  color:#1756a9;
->>>>>>> alibaba16/gh-pages
+
 }
 a:hover {
  text-decoration: none;
@@ -161,7 +155,6 @@ a.post-link {
   color: #888;
   margin-left: 50px;
   margin-right: 50px;
-<<<<<<< HEAD
 }
 p {
  font-style: italic;
@@ -179,7 +172,3 @@ h1.post-title{
 .back-to-posts{
  max-width: 100px;
 }
-=======
-}
-
->>>>>>> alibaba16/gh-pages
